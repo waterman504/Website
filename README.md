@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
 <body>
+<head>
+<title>River Smith</title>
 
-<h1>My First Heading</h1>
 
-<p>My first paragraph.</p>
+</head>
 
 </body>
 </html> 
