@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <div>
+    
+  
+  
+  <div class="fixed">  
+  <nav class="top-bar" data-topbar>
+  <ul class="title-area">
+    <li class="name">
+      <h1><a href="#">Home</a></h1>
+    </li>
+    </ul>
+    <section class="top-bar-section">
+    <!-- Left Nav Section -->
+    <ul class="left">
+      <li class="active"><a href="#">News</a></li>
+      <section class="top-bar-section">
+    <!-- Left Nav Section -->
+    <ul class="left">
+      <li class="active"><a href="#">Bio</a></li>
+      <section class="top-bar-section">
+    <!-- Left Nav Section -->
+    <ul class="left">
+      <li class="active"><a href="#">Music</a></li>
+      <section class="top-bar-section">
+    <!-- Left Nav Section -->
+    <ul class="left">
+      <li class="active"><a href="#">Photos</a></li>
+      <section class="top-bar-section">
+    <!-- Left Nav Section -->
+    <ul class="right">
+      <li class="active"><a href="#">Video</a></li>
+      <section class="top-bar-section">
+    <!-- Left Nav Section -->
+    <ul class="right">
+      <li class="active"><a href="#">Contact</a></li>
+      </div>
+      
+      <div>
+      <div class="orbit-container">
+  <ul data-orbit class="example-orbit orbit-slides-container">
+    <li>
+      <img src="divers-circle.jpg" alt="slide 1" />
+      <div class="orbit-caption">
+        Caption One.
+      </div>
+    </li>
+    <li class="active">
+      <img src="divers-circle.jpg" alt="slide 1" />
+      <div class="orbit-caption">
+        Caption Two.
+      </div>
+    </li>
+    <li>
+      <img src="divers-circle.jpg" alt="slide 1" />
+      <div class="orbit-caption">
+        Caption Three.
+      </div>
+    </li>
+  </ul>
+
+  <!-- Navigation Arrows -->
+  <a href="#" class="orbit-prev">Prev <span></span></a>
+  <a href="#" class="orbit-next">Next <span></span></a>
+
+  <!-- Slide Numbers -->
+  <div class="orbit-slide-number">
+    <span>1</span> of <span>3</span>
+  </div>
+      </div>
+  
+  <div>
+  <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+<style>
+body {
+font-family: 'Ubuntu', sans-serif;
+}
+</div>
+    </style>
+    <title>Music-River Smith</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <div id="header">
+      <div id="sitebranding">
+        <h1>RiverSmithMusic.com</h1>
+      </div>
+    </div> <!-- end of header div -->
+    <div>
+    <h2>Music</h2>
+    <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/61210024&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+  <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/123140196&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+  </div>
+  <div>
+  <h2>Videos</h2>
+ <iframe width="560" height="315" src="//www.youtube.com/embed/TTaGZKJSk-s" frameborder="0" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="//www.youtube.com/embed/hlFeQyir1eM" frameborder="0" allowfullscreen></iframe>
+  </div>
+   </body>
+</html>
